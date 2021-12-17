@@ -1,0 +1,259 @@
+[00:01:25] [Server thread/INFO]: HHSIII lost connection: Disconnected
+[00:01:25] [Server thread/INFO]: HHSIII left the game
+[06:39:05] [User Authenticator #15/INFO]: UUID of player HHSIII is 7ff10f45-b3eb-41d3-b48c-2d008e1e4b99
+[06:39:05] [Server thread/INFO]: HHSIII[/159.118.22.238:54287] logged in with entity id 289937 at (-510.263849753618, 63.0, -90.37549143672739)
+[06:39:05] [Server thread/INFO]: HHSIII joined the game
+[07:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2329ms or 46 ticks behind
+[07:37:10] [Server thread/WARN]: HHSIII moved too quickly! -0.18206778852163552,0.0,10.053425428050744
+[07:56:47] [Server thread/INFO]: Villager bjr['Villager'/306245, l='ServerLevel[world]', x=-449.85, y=62.50, z=-73.00] died, message: 'Villager was slain by HHSIII using [womn]'
+[08:00:03] [Server thread/INFO]: Villager bjr['Villager'/305169, l='ServerLevel[world]', x=-453.50, y=64.00, z=-92.48] died, message: 'Villager was slain by HHSIII using [womn]'
+[08:45:34] [Server thread/INFO]: Villager bjr['Librarian'/312719, l='ServerLevel[world]', x=-470.15, y=63.00, z=-96.47] died, message: 'Librarian was slain by HHSIII using [womn]'
+[09:03:08] [Server thread/INFO]: Villager bjr['Villager'/315529, l='ServerLevel[world]', x=-450.30, y=65.00, z=-76.30] died, message: 'Villager was squished too much'
+[09:30:49] [Server thread/INFO]: Villager bjr['Villager'/304675, l='ServerLevel[world]', x=-450.30, y=65.00, z=-76.30] died, message: 'Villager was squished too much'
+[09:30:50] [Server thread/INFO]: Villager bjr['Villager'/304663, l='ServerLevel[world]', x=-450.30, y=65.00, z=-76.30] died, message: 'Villager was squished too much'
+[09:33:52] [Server thread/INFO]: Villager bjr['Fisherman'/323158, l='ServerLevel[world]', x=-468.83, y=63.00, z=-94.51] died, message: 'Fisherman was slain by HHSIII using [womn]'
+[09:33:53] [Server thread/INFO]: Villager bjr['Fisherman'/324219, l='ServerLevel[world]', x=-470.16, y=64.00, z=-94.51] died, message: 'Fisherman was slain by HHSIII using [womn]'
+[09:36:08] [Server thread/INFO]: Villager bjr['Villager'/304681, l='ServerLevel[world]', x=-450.70, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[09:50:47] [Server thread/INFO]: Villager bjr['Villager'/304677, l='ServerLevel[world]', x=-450.70, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[10:11:01] [Server thread/INFO]: Villager bjr['Villager'/304672, l='ServerLevel[world]', x=-450.70, y=65.00, z=-76.30] died, message: 'Villager was squished too much'
+[10:11:12] [Server thread/INFO]: Villager bjr['Villager'/304673, l='ServerLevel[world]', x=-450.70, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[10:13:21] [Server thread/WARN]: HHSIII moved too quickly! -6.137162932061415,1.534223338601464,8.773148855811542
+[10:13:22] [Server thread/WARN]: HHSIII moved too quickly! -6.062419549175729,-4.400127504124541,8.970293290050904
+[10:13:32] [Server thread/WARN]: HHSIII moved too quickly! 4.28072599415259,1.2928603304167154,9.746552189405065
+[10:13:37] [Server thread/WARN]: HHSIII moved too quickly! 6.667033326857677,1.3881341454943623,8.795606720382239
+[10:13:47] [Server thread/WARN]: HHSIII moved too quickly! 9.525339994274077,-0.4680827468788351,3.6933611904371446
+[10:14:27] [Server thread/WARN]: HHSIII moved too quickly! 8.189677878538419,-1.2119544190648526,6.618391070077905
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 10.387518390408388,0.0,-0.5091522929942585
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 10.787038351935593,0.0,-0.5287399803432891
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 11.186558313975809,0.0,-0.5483277751059177
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 11.586078276477707,0.0,-0.5679156665405571
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 11.98559823939513,0.0,-0.5875036449801883
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 12.385118202686527,0.0,-0.60709170172413
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 12.784638166314522,0.0,-0.6266798289420876
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 13.184158130245436,0.0,-0.6462680195868415
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 13.58367809444897,0.0,-0.6658562673151209
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 13.98319805889787,0.0,-0.685444566418937
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 14.382718023567605,0.0,-0.705032911761009
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 14.782237988436066,0.0,-0.7246212987170111
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 15.181757953483412,0.0,-0.744209723126005
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 15.58127791869174,0.0,-0.7637981812422368
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 15.980797884044932,0.0,-0.783386669695119
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 16.380317849528524,0.0,-0.802975185451487
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 16.77983781512947,0.0,-0.8225637257805829
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 17.179357780836057,0.0,-0.8421522882249519
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 17.578877746637687,0.0,-0.8617408705731577
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 17.978397712524867,0.0,-0.8813294708347712
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 18.3779457746285,0.0,-0.9002207005351011
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 18.777538971672953,0.0,-0.9171652825552883
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 19.17715306102565,0.0,-0.9311615821034138
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 19.576737792902293,0.0,-0.941431749131425
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 19.976228153756125,0.0,-0.9473843980213132
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 20.375552451319578,0.0,-0.9485845446374697
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 20.774638302190993,0.0,-0.9447301910272472
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 21.173416266050907,0.0,-0.9356273496446192
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 21.57182299724724,0.0,-0.9211751416942207
+[10:15:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[10:15:50] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! 11.981803684817578,0.0,-0.4117800689696196
+[10:16:51] [Server thread/WARN]: HHSIII moved too quickly! 1.3257672428408824,-6.5187112681119,-8.355898377080848
+[10:16:56] [Server thread/WARN]: HHSIII moved too quickly! -6.360396074214705,3.288568291357791,-11.328914300482666
+[10:17:23] [Server thread/WARN]: HHSIII moved too quickly! -1.5038639330894625,2.032670961329444,-11.480551702487674
+[10:17:43] [Server thread/WARN]: HHSIII moved too quickly! -9.373455942614498,0.9788105019915605,-4.335752397113993
+[10:17:47] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:47] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:47] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:47] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:47] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:47] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:47] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:47] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:47] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:47] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:48] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:48] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:48] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:48] [Server thread/WARN]: HHSIII was kicked for floating too long!
+[10:17:48] [Server thread/INFO]: HHSIII lost connection: Flying is not enabled on this server
+[10:17:48] [Server thread/INFO]: HHSIII left the game
+[10:17:53] [User Authenticator #16/INFO]: UUID of player HHSIII is 7ff10f45-b3eb-41d3-b48c-2d008e1e4b99
+[10:17:53] [Server thread/INFO]: HHSIII[/159.118.22.238:58128] logged in with entity id 342856 at (-239.3047302701046, 81.85334754018216, 1412.8140341099515)
+[10:17:53] [Server thread/INFO]: HHSIII joined the game
+[10:17:56] [Server thread/WARN]: HHSIII moved too quickly! 0.0,-10.806526110008988,0.0
+[10:17:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
+[10:18:04] [Server thread/WARN]: HHSIII moved too quickly! -10.015976310619351,1.068167476193949,-5.183164290095419
+[10:18:44] [Server thread/INFO]: <HHSIII> -321, 1296 garudian
+[10:19:13] [Server thread/WARN]: HHSIII moved too quickly! -2.6834990359173503,-0.4527939418658349,-10.793255557868406
+[10:19:24] [Server thread/WARN]: HHSIII moved too quickly! -4.034443735891614,-0.3851924969492728,-9.354128241376202
+[10:19:44] [Server thread/WARN]: HHSIII moved too quickly! -9.84196990149701,-0.6810365373833918,-4.490751915778901
+[10:20:45] [Server thread/INFO]: <HHSIII> -726, 86, 682 --- Illager Outpost
+[10:20:54] [Server thread/WARN]: HHSIII moved too quickly! -0.23340107133367383,1.774338241716407,-10.207715754150172
+[10:20:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[10:21:01] [Server thread/WARN]: HHSIII moved too quickly! 2.39998947271431,-3.6340568390609747,-9.672119733345994
+[10:22:14] [Server thread/WARN]: HHSIII moved too quickly! 9.24575293609712,0.3645540405551344,-7.10399930758345
+[10:22:33] [Server thread/WARN]: HHSIII moved too quickly! 1.354227081435397,1.4653731219179633,-11.481749656974898
+[10:22:45] [Server thread/WARN]: HHSIII moved too quickly! -5.711068646109993,3.5841236417371505,-10.194448130702654
+[10:22:46] [Server thread/WARN]: HHSIII moved too quickly! -5.362119148199213,1.8681855118578596,-9.398331471192705
+[10:22:55] [Server thread/WARN]: HHSIII moved too quickly! -5.009138077432453,4.095065721733121,-10.363014217533191
+[10:22:57] [Server thread/WARN]: HHSIII moved too quickly! -1.8302746554336409,-8.119510186456367,-5.983592369580492
+[10:23:00] [Server thread/WARN]: HHSIII moved too quickly! -4.838853823063346,6.357257188683263,-9.347978340202872
+[10:24:31] [Server thread/WARN]: HHSIII moved too quickly! 2.163703956035306,1.0882371226906997,-10.087523906471233
+[10:24:50] [Server thread/WARN]: HHSIII moved too quickly! 12.593137082280577,-0.6961555798034738,-0.15201193635698473
+[10:25:06] [Server thread/WARN]: HHSIII moved too quickly! 12.450277450872441,1.14540873675611,-1.0764178343479216
+[10:25:11] [Server thread/WARN]: HHSIII moved too quickly! 11.510827138502265,2.07124053207275,2.84661323311002
+[10:25:22] [Server thread/WARN]: HHSIII moved too quickly! 5.645507401327507,-2.8267902916629595,-9.596563511493514
+[10:25:37] [Server thread/WARN]: HHSIII moved too quickly! -3.679696665560243,-7.249997467438959,6.6501250217770576
+[10:25:56] [Server thread/WARN]: HHSIII moved too quickly! -4.716477525115991,-1.6628429629723485,10.99338284033297
+[10:26:51] [Server thread/WARN]: HHSIII moved too quickly! -3.431769582412951,-1.2719073843448996,11.76876927994067
+[10:27:02] [Server thread/WARN]: HHSIII moved too quickly! -5.754236839190213,0.4429297940960595,10.102077730999667
+[10:27:16] [Server thread/WARN]: HHSIII moved too quickly! -3.768051396490307,2.672508088682278,12.051531904966339
+[10:27:28] [Server thread/WARN]: HHSIII moved too quickly! -7.342977639101946,-0.522758236920069,8.632940691538323
+[10:27:29] [Server thread/WARN]: HHSIII moved too quickly! -11.751271855059827,-3.425751118044971,5.965197917844932
+[10:27:39] [Server thread/WARN]: HHSIII moved too quickly! 0.9086065637102365,1.0938087345742673,10.481730299760216
+[10:29:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[10:30:46] [Server thread/INFO]: Villager bjr['Fisherman'/358320, l='ServerLevel[world]', x=-471.50, y=63.00, z=-72.57] died, message: 'Fisherman was slain by HHSIII using [womn]'
+[10:30:55] [Server thread/INFO]: Villager bjr['Villager'/358318, l='ServerLevel[world]', x=-474.96, y=60.54, z=-86.65] died, message: 'Villager was slain by HHSIII using [womn]'
+[10:30:59] [Server thread/INFO]: Villager bjr['Villager'/358319, l='ServerLevel[world]', x=-478.51, y=60.51, z=-86.66] died, message: 'Villager was slain by HHSIII using [womn]'
+[10:36:52] [Server thread/INFO]: HHSIII lost connection: Disconnected
+[10:36:52] [Server thread/INFO]: HHSIII left the game
+[10:40:31] [User Authenticator #17/INFO]: UUID of player HHSIII is 7ff10f45-b3eb-41d3-b48c-2d008e1e4b99
+[10:40:32] [Server thread/INFO]: HHSIII[/159.118.22.238:58287] logged in with entity id 360004 at (-463.30000001192093, 63.0, -86.27933268892926)
+[10:40:32] [Server thread/INFO]: HHSIII joined the game
+[10:42:01] [Server thread/INFO]: HHSIII lost connection: Disconnected
+[10:42:01] [Server thread/INFO]: HHSIII left the game
+[11:02:33] [User Authenticator #18/INFO]: UUID of player HHSIII is 7ff10f45-b3eb-41d3-b48c-2d008e1e4b99
+[11:02:33] [Server thread/INFO]: HHSIII[/159.118.22.238:58431] logged in with entity id 360634 at (-471.0598823259619, 63.0, -90.57754102553639)
+[11:02:33] [Server thread/INFO]: HHSIII joined the game
+[11:17:17] [Server thread/INFO]: Villager bjr['Villager'/360643, l='ServerLevel[world]', x=-450.30, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[11:30:52] [Server thread/INFO]: Villager bjr['Villager'/360651, l='ServerLevel[world]', x=-450.30, y=65.00, z=-76.30] died, message: 'Villager was squished too much'
+[11:31:20] [Server thread/INFO]: Villager bjr['Villager'/360645, l='ServerLevel[world]', x=-450.30, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[11:51:48] [Server thread/INFO]: Villager bjr['Villager'/360650, l='ServerLevel[world]', x=-450.30, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[11:56:41] [Server thread/INFO]: Villager bjr['Villager'/360638, l='ServerLevel[world]', x=-450.70, y=65.00, z=-76.30] died, message: 'Villager was squished too much'
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -10.369725940474154,0.0,-0.7929263244962499
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -10.76856159881504,0.0,-0.823423014577088
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -11.167397258146366,0.0,-0.8539196942326157
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -11.56623291836911,0.0,-0.8844163645053982
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -11.965068579394142,0.0,-0.9149130263337497
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -12.3639042411412,0.0,-0.9454096805620793
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -12.76273990353809,0.0,-0.9759063279503835
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -13.161575566519787,0.0,-1.006402969182659
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -13.560411230027853,0.0,-1.0368996048745203
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -13.959246894009652,0.0,-1.06739623558002
+[12:35:59] [Server thread/WARN]: Boat (vehicle of HHSIII) moved too quickly! -14.358082558417777,0.0,-1.0978928617977886
+[12:39:28] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1048, y=117, z=-347} gg{x=-1048, y=118, z=-346}
+[12:42:39] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1048, y=117, z=-341} gg{x=-1048, y=118, z=-345}
+[12:43:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1048, y=117, z=-342} gg{x=-1048, y=118, z=-343}
+[12:53:09] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-1041, y=118, z=-345} gg{x=-1045, y=118, z=-347}
+[12:55:00] [Server thread/WARN]: HHSIII moved too quickly! 10.789469712044252,-0.012382906302825347,3.7485031077230673
+[13:00:40] [Server thread/INFO]: Villager bjr['Villager'/382857, l='ServerLevel[world]', x=-450.70, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[13:06:33] [Server thread/INFO]: Villager bjr['Librarian'/382817, l='ServerLevel[world]', x=-465.47, y=67.56, z=-87.09] died, message: 'Librarian was slain by HHSIII using [womn]'
+[13:06:35] [Server thread/INFO]: Villager bjr['Villager'/382818, l='ServerLevel[world]', x=-467.66, y=68.50, z=-88.70] died, message: 'Villager was slain by HHSIII using [womn]'
+[13:10:49] [Server thread/INFO]: Villager bjr['Villager'/382815, l='ServerLevel[world]', x=-478.36, y=63.00, z=-85.30] died, message: 'Villager was slain by HHSIII using [womn]'
+[13:10:51] [Server thread/INFO]: Villager bjr['Fisherman'/382816, l='ServerLevel[world]', x=-483.46, y=63.00, z=-75.74] died, message: 'Fisherman was slain by HHSIII using [womn]'
+[13:11:19] [Server thread/INFO]: Villager bjr['Villager'/382859, l='ServerLevel[world]', x=-450.30, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[13:13:51] [Server thread/INFO]: Villager bjr['Villager'/388976, l='ServerLevel[world]', x=-476.55, y=63.00, z=-82.25] died, message: 'Villager was slain by HHSIII using [womn]'
+[13:14:07] [Server thread/INFO]: Villager bjr['Villager'/385305, l='ServerLevel[world]', x=-445.08, y=63.00, z=-106.91] died, message: 'Villager was slain by HHSIII using [womn]'
+[13:18:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-449, y=60, z=-81} gg{x=-449, y=59, z=-81}
+[13:18:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-449, y=60, z=-81} gg{x=-449, y=59, z=-81}
+[13:36:29] [Server thread/INFO]: Villager bjr['Villager'/382860, l='ServerLevel[world]', x=-450.70, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[13:42:28] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-323, y=63, z=-41} gg{x=-322, y=63, z=-41}
+[13:43:26] [Server thread/INFO]: Villager bjr['Villager'/382854, l='ServerLevel[world]', x=-450.70, y=65.00, z=-76.30] died, message: 'Villager was squished too much'
+[13:43:41] [Server thread/INFO]: Villager bjr['Villager'/382863, l='ServerLevel[world]', x=-450.30, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[14:10:15] [Server thread/INFO]: Villager bjr['Villager'/382856, l='ServerLevel[world]', x=-450.70, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[14:10:15] [Server thread/INFO]: Villager bjr['Villager'/382853, l='ServerLevel[world]', x=-450.30, y=65.00, z=-76.70] died, message: 'Villager was squished too much'
+[14:10:42] [Server thread/INFO]: Villager bjr['Villager'/397352, l='ServerLevel[world]', x=-474.20, y=63.00, z=-85.30] died, message: 'Villager was slain by HHSIII using [womn]'
+[14:10:56] [Server thread/INFO]: Villager bjr['Villager'/403922, l='ServerLevel[world]', x=-478.48, y=63.00, z=-89.63] died, message: 'Villager was slain by HHSIII using [womn]'
+[14:12:31] [Server thread/INFO]: HHSIII lost connection: Disconnected
+[14:12:31] [Server thread/INFO]: HHSIII left the game
+[14:37:19] [User Authenticator #19/INFO]: UUID of player Understriker888 is 24e3f21e-2e07-4c5f-b067-f6dd779f708c
+[14:37:19] [Server thread/INFO]: Understriker888[/166.175.59.182:32081] logged in with entity id 404665 at (-480.2546391696366, 63.0, -65.25851421228474)
+[14:37:19] [Server thread/INFO]: Understriker888 joined the game
+[14:44:50] [Server thread/INFO]: Understriker888 lost connection: Disconnected
+[14:44:50] [Server thread/INFO]: Understriker888 left the game
+[14:45:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:45:18] [Server thread/INFO]: quit<--[HERE]
+[14:45:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:45:21] [Server thread/INFO]: /quit<--[HERE]
+[14:45:27] [Server thread/INFO]: /advancement (grant|revoke)
+[14:45:27] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[14:45:27] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[14:45:27] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[14:45:27] [Server thread/INFO]: /clear [<targets>]
+[14:45:27] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[14:45:27] [Server thread/INFO]: /data (merge|get|remove|modify)
+[14:45:27] [Server thread/INFO]: /datapack (enable|disable|list)
+[14:45:27] [Server thread/INFO]: /debug (start|stop|function)
+[14:45:27] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
+[14:45:27] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[14:45:27] [Server thread/INFO]: /effect (clear|give)
+[14:45:27] [Server thread/INFO]: /me <action>
+[14:45:27] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[14:45:27] [Server thread/INFO]: /experience (add|set|query)
+[14:45:27] [Server thread/INFO]: /xp -> experience
+[14:45:27] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[14:45:27] [Server thread/INFO]: /forceload (add|remove|query)
+[14:45:27] [Server thread/INFO]: /function <name>
+[14:45:27] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
+[14:45:27] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[14:45:27] [Server thread/INFO]: /give <targets> <item> [<count>]
+[14:45:27] [Server thread/INFO]: /help [<command>]
+[14:45:27] [Server thread/INFO]: /item (replace|modify)
+[14:45:27] [Server thread/INFO]: /kick <targets> [<reason>]
+[14:45:27] [Server thread/INFO]: /kill [<targets>]
+[14:45:27] [Server thread/INFO]: /list [uuids]
+[14:45:27] [Server thread/INFO]: /locate (pillager_outpost|mineshaft|mansion|jungle_pyramid|desert_pyramid|igloo|ruined_portal|shipwreck|swamp_hut|stronghold|monument|ocean_ruin|fortress|endcity|buried_treasure|village|nether_fossil|bastion_remnant)
+[14:45:27] [Server thread/INFO]: /locatebiome <biome>
+[14:45:27] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[14:45:27] [Server thread/INFO]: /msg <targets> <message>
+[14:45:27] [Server thread/INFO]: /tell -> msg
+[14:45:27] [Server thread/INFO]: /w -> msg
+[14:45:27] [Server thread/INFO]: /particle <name> [<pos>]
+[14:45:27] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[14:45:27] [Server thread/INFO]: /reload
+[14:45:27] [Server thread/INFO]: /recipe (give|take)
+[14:45:27] [Server thread/INFO]: /say <message>
+[14:45:27] [Server thread/INFO]: /schedule (function|clear)
+[14:45:27] [Server thread/INFO]: /scoreboard (objectives|players)
+[14:45:27] [Server thread/INFO]: /seed
+[14:45:27] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[14:45:27] [Server thread/INFO]: /spawnpoint [<targets>]
+[14:45:27] [Server thread/INFO]: /setworldspawn [<pos>]
+[14:45:27] [Server thread/INFO]: /spectate [<target>]
+[14:45:27] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[14:45:27] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[14:45:27] [Server thread/INFO]: /summon <entity> [<pos>]
+[14:45:27] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[14:45:27] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[14:45:27] [Server thread/INFO]: /teammsg <message>
+[14:45:27] [Server thread/INFO]: /tm -> teammsg
+[14:45:27] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[14:45:27] [Server thread/INFO]: /tp -> teleport
+[14:45:27] [Server thread/INFO]: /tellraw <targets> <message>
+[14:45:27] [Server thread/INFO]: /time (set|add|query)
+[14:45:27] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[14:45:27] [Server thread/INFO]: /trigger <objective> [add|set]
+[14:45:27] [Server thread/INFO]: /weather (clear|rain|thunder)
+[14:45:27] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[14:45:27] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[14:45:27] [Server thread/INFO]: /banlist [ips|players]
+[14:45:27] [Server thread/INFO]: /ban <targets> [<reason>]
+[14:45:27] [Server thread/INFO]: /deop <targets>
+[14:45:27] [Server thread/INFO]: /op <targets>
+[14:45:27] [Server thread/INFO]: /pardon <targets>
+[14:45:27] [Server thread/INFO]: /pardon-ip <target>
+[14:45:27] [Server thread/INFO]: /perf (start|stop)
+[14:45:27] [Server thread/INFO]: /save-all [flush]
+[14:45:27] [Server thread/INFO]: /save-off
+[14:45:27] [Server thread/INFO]: /save-on
+[14:45:27] [Server thread/INFO]: /setidletimeout <minutes>
+[14:45:27] [Server thread/INFO]: /stop
+[14:45:27] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[14:45:29] [Server thread/INFO]: Stopping the server
+[14:45:30] [Server thread/INFO]: Stopping server
+[14:45:30] [Server thread/INFO]: Saving players
+[14:45:30] [Server thread/INFO]: Saving worlds
+[14:45:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:45:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:45:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:45:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:45:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:45:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:45:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
